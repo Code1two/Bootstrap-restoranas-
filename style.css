@@ -1,0 +1,38 @@
+.nav-logo{
+    height: 50px;
+    border-radius: 100%;
+}
+nav{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('/360_F_147516063_hCXI8VUIdBYud0B0hhS3Yo5CFTT1a4g8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+}
+.nav-link{
+    color: black;
+    font-weight: 900;
+    z-index: 1;
+}
+.navbar-brand{
+    font-size: 26px;
+    font-weight: 900;
+}
+.vidusft{
+    height: 500px;
+    width: 450px;
+}
+.slidoft{
+    width: 100%;
+    height: 60vh;
+    object-fit:cover
+}
+.foteris{
+    height: 150px;
+}
+.footeris{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('/360_F_147516063_hCXI8VUIdBYud0B0hhS3Yo5CFTT1a4g8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

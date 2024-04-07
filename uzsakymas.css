@@ -1,0 +1,10 @@
+.foteris {
+    height: 150px;
+}
+
+.footeris {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('/360_F_147516063_hCXI8VUIdBYud0B0hhS3Yo5CFTT1a4g8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
